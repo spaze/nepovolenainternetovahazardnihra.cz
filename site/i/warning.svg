@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<g>
+<rect stroke="#000000" id="svg_1" height="133" width="66" y="200" x="266" stroke-width="0" fill="#ffffff"/>
+<rect stroke="#000000" id="svg_3" height="66" width="66" y="400" x="266" stroke-width="0" fill="#ffffff"/>
+<g fill-rule="evenodd" fill="none" id="Page-1">
+<g stroke="null" id="Warning">
+<path stroke="null" fill="#FF0000" id="Shape" d="m0,533l600,0l-300,-500l-300,500l0,0zm333,-66l-66,0l0,-66l66,0l0,66l0,0zm0,-133l-66,0l0,-133l66,0l0,133l0,0z"/>
+</g>
+</g>
+</g>
+</svg>
